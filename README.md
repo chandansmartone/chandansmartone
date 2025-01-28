@@ -2,76 +2,40 @@
 
 [Portfolio](https://chandankumar.tech) | [GitHub](https://github.com/chandansmartone) | [LinkedIn](https://www.linkedin.com/in/chandan-kumar-m/)
 
-Welcome to my GitHub profile! I am a passionate and results-driven **Software Engineer** with a strong focus on full-stack web development, artificial intelligence, and SaaS applications. With a solid foundation in programming and a wide array of technologies, I am dedicated to delivering high-quality solutions that solve real-world problems. Currently, I am seeking a full-time position where I can apply my skills, creativity, and problem-solving abilities to contribute to organizational success.
-
-## 📚 Education
-
-- **Master of Computer Application (MCA)**  
-  National Institute of Engineering, Mysore | 2024 | 9.49 CGPA
-
-- **Bachelor of Computer Application (BCA)**  
-  NIE First Grade College, Mysore | 2022 | 8.8 CGPA
-
-- **Senior Secondary (XII) - Commerce (ECBA)**  
-  Unity PU College, Nangangud | 2019 | 82%
+I'm a **Software Engineer** passionate about building innovative and user-centric applications. Currently pursuing my **Master’s in Computer Applications**, I specialize in **Full-stack Web Development**, **AI Integrations**, and building **SaaS platforms**. I’m always looking for ways to leverage my skills to create impactful solutions.
 
 ## 🔨 Technologies & Skills
 
-**Frontend:**  
-- HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap, Redux
-
-**Backend:**  
-- Node.js, Express.js, Java Spring Boot, Spring Security, Web API
-
-**Databases:**  
-- MySQL, MongoDB, PostgreSQL (Supabase), DBMS
-
-**Programming Languages:**  
-- Java, Python, JavaScript
-
-**Frameworks & Platforms:**  
-- PyTorch (Deep Learning), Prisma, AWS
-
-**Additional Tools & Tech:**  
-- Git, GitHub, Docker, REST API, JWT, MVC, Microservices, Postman
-
-**Certifications:**  
-- Complete React Developer | Udemy (Advanced React, State Management, Authentication)
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap, Redux
+- **Backend:** Node.js, Express.js, Java Spring Boot, Web API
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Programming Languages:** Java, Python, JavaScript
+- **Other:** Git, GitHub, Docker, REST API, Stripe, JWT, AWS, Prisma
 
 ## 🚀 Projects
 
 ### **Sarvagnani AI – Integrated SaaS Web Application**  
-🖥️ [Chandu-ai-app](https://chandu-ai-app.vercel.app) | *January 2024 - May 2024*  
-- Developed an AI-powered web application using **Next.js** with integrated features such as **code generation**, **image/video creation**, **conversational AI**, **music composition**, **text-to-speech (TTS)**, and **speech-to-text (STT)**.  
-- Implemented **Clerk** for user authentication, **Prisma ORM** for database management, and **Stripe** for payment processing.  
-- Designed intuitive React interfaces for AI tools, leveraging APIs such as **OpenAI's DALL-E** and **Replicate's MusicLM** and **zeroscope_v2_XL**.
+🖥️ [Chandu-ai-app](https://chandu-ai-app.vercel.app) | *Jan 2024 - May 2024*  
+AI-powered app built with **Next.js** offering features like **code generation**, **image/video creation**, **conversational AI**, and more. Integrated **Clerk** for authentication, **Stripe** for payments, and utilized **OpenAI** and **Replicate** APIs.
 
-### **Perfect-Fit**  
-🛒 [Perfectfitshop](https://perfectfitshop.netlify.app) | *July 2022 - July 2024*  
-- Built a fully functional **e-commerce platform** using the **MERN stack**.  
-- Enhanced the user experience with essential features like responsive design, and integrated an **Admin panel** for site management.  
-- Implemented crucial e-commerce features such as product management, shopping cart, payment processing, and user accounts.
+### **Perfect-Fit E-Commerce Platform (myntra clone)**  
+🛒 [Perfectfitshop](https://perfectfitshop.netlify.app) | *July 2022 - Present*  
+Developed a complete **e-commerce platform** using **MERN stack**, including an **Admin panel**, payment integration, and fully responsive UI.
 
 ### **Files-GPT**  
 📂 [Filesgpt](https://filesgpt.netlify.app)  
-- Built an **AI-powered platform** using **MERN stack** that allows users to upload and chat with files.  
-- Integrated **Google Cloud Storage** for secure file uploads and **OpenAI API** for interactive AI responses.  
-- Enabled support for diverse file types (PDF, XLS, JS, CSS, images, DOCX, CSV, TXT) with a scalable backend architecture.
+AI-powered platform for file uploads and interaction, using **Google Cloud Storage** and **OpenAI API** for real-time responses across multiple file types.
 
 ## 🌱 I'm currently working on
 
-- Improving the **Sarvagnani AI platform** with new features like advanced data analysis and deeper AI integrations.
-- Exploring new AI tools and frameworks to optimize my applications and provide the best user experiences.
-- Collaborating on open-source projects to improve my skills and contribute to the community.
+- Enhancing **Sarvagnani AI** with new features and integrations.
+- Exploring new AI frameworks and deep learning techniques for future projects.
 
 ## 🤝 Let's Connect!
 
-Feel free to reach out to me through the following platforms:
-
+- **Email:** [chandan003chandu@gmail.com](mailto:chandan003chandu@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/chandan-kumar-m/)
 - [GitHub](https://github.com/chandansmartone)
-- 📧 **Email:** [chandan003chandu@gmail.com](mailto:chandan003chandu@gmail.com)
 
----
 
-Thanks for visiting my profile! Feel free to explore my repositories, and let me know if you'd like to collaborate on any exciting projects. 🚀
+Thanks for visiting my profile! Feel free to check out my projects and reach out if you want to collaborate or discuss exciting opportunities! 🚀
