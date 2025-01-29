@@ -15,15 +15,15 @@ I'm a **Software Engineer** passionate about building innovative and user-centri
 ## 🚀 Projects
 
 ### **Sarvagnani AI – Integrated SaaS Web Application**  
-🖥️ [Chandu-ai-app](https://chandu-ai-app.vercel.app) | *Jan 2024 - May 2024*  
+🖥️ [Chandu-ai-app](https://chandu-ai-app.vercel.app) || githuba(https://github.com/chandansmartone/AI-Club) | *Jan 2024 - May 2024*  
 AI-powered app built with **Next.js** offering features like **code generation**, **image/video creation**, **conversational AI**, and more. Integrated **Clerk** for authentication, **Stripe** for payments, and utilized **OpenAI** and **Replicate** APIs.
 
 ### **Perfect-Fit E-Commerce Platform (myntra clone)**  
-🛒 [Perfectfitshop](https://perfectfitshop.netlify.app) | *July 2022 - Present*  
+🛒 [Perfectfitshop](https://perfectfitshop.netlify.app) || [github](https://github.com/chandansmartone/myntra_clone)| *July 2022 - Present*  
 Developed a complete **e-commerce platform** using **MERN stack**, including an **Admin panel**, payment integration, and fully responsive UI.
 
 ### **Files-GPT**  
-📂 [Filesgpt](https://filesgpt.netlify.app)  
+📂 [Filesgpt](https://filesgpt.netlify.app) || [github](https://github.com/chandansmartone/ChatWithFilesFrontEnd1)
 AI-powered platform for file uploads and interaction, using **Google Cloud Storage** and **OpenAI API** for real-time responses across multiple file types.
 
 ## 🌱 I'm currently working on
